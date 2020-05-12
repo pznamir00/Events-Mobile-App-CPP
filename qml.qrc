@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qtquickcontrols2.conf</file>
+        <file>QML/MainMenu.qml</file>
+        <file>QML/AboutApp.qml</file>
+        <file>QML/Login.qml</file>
+        <file>QML/User.qml</file>
+        <file>Images/logo.png</file>
+        <file>Images/marker.png</file>
+        <file>QML/main.qml</file>
+        <file>QML/Register.qml</file>
+        <file>QML/Components/CustomButton.qml</file>
+        <file>QML/Components/Map.qml</file>
+        <file>QML/Components/Marker.qml</file>
+        <file>QML/Components/EventDialog.qml</file>
+        <file>QML/Components/CategoriesComboBox.qml</file>
+        <file>QML/Account/Account.qml</file>
+        <file>QML/Account/AddCategory.qml</file>
+        <file>QML/Account/AddEvent.qml</file>
+    </qresource>
+</RCC>

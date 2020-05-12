@@ -1,0 +1,5 @@
+Aplikacja mobilna.
+Celem programu jest ulatwienie dostepu do wydarzen.
+Uzytkownik moze dodac wydarzenie lub kategorie.
+
+autor: Patryk Znamirowski
